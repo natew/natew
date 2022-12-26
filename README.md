@@ -1,6 +1,4 @@
-![Nate's github stats](https://github-readme-stats.vercel.app/api?username=natew&count_private=true&show_icons=true&theme=material-palenight)
+## [Sponsor my work](https://github.com/sponsors/natew)
 
 
-## Follow me on Twitter
-
-Follow [@natebirdman](https://twitter.com/natebirdman)
+- Twitter [@natebirdman](https://twitter.com/natebirdman)
